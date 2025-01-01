@@ -48,8 +48,6 @@ To run this project:
    \`\`\`
 4. Follow the steps in the notebook to explore, train, and evaluate the segmentation model.
 
-## Screenshots
-![Sample Segmentation Result](images/sample_segmentation.png)
 
 ## Acknowledgments
 - Oxford-IIIT Pet Dataset for the segmentation task.
