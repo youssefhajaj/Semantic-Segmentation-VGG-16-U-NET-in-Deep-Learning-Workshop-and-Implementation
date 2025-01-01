@@ -20,9 +20,9 @@ This project is a hands-on workshop on semantic segmentation, a deep learning ta
 - Matplotlib
 
 To install the required packages:
-\`\`\`bash
+```bash
 pip install tensorflow tensorflow-datasets matplotlib
-\`\`\`
+```
 
 ## Content
 The notebook covers:
@@ -35,17 +35,17 @@ The notebook covers:
 ## Usage
 To run this project:
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/semantic-segmentation
-   \`\`\`
+   ```
 2. Navigate to the project directory:
-   \`\`\`bash
+   ```bash
    cd semantic-segmentation
-   \`\`\`
+   ```
 3. Open the Jupyter Notebook:
-   \`\`\`bash
+   ```bash
    jupyter notebook Copie_de_TD_segmentation_sémantique(2).ipynb
-   \`\`\`
+   ```
 4. Follow the steps in the notebook to explore, train, and evaluate the segmentation model.
 
 
