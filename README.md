@@ -7,6 +7,11 @@ cat <<EOL > README.md
 ## Overview
 This project is a hands-on workshop on semantic segmentation, a deep learning task that assigns a class label to every pixel in an image. Semantic segmentation is widely used in fields such as autonomous driving, medical imaging, and satellite imagery analysis.
 
+## Note ! : 
+- i m using collab notebook on this project
+- this is a link for extra documentation for better understanding please fell free to check it
+- [VGG-16 with U-NET Semantic Segmentation](https://idiotdeveloper.com/vgg16-unet-implementation-in-tensorflow/)
+  
 ## Key Topics
 - Introduction to semantic segmentation.
 - Understanding datasets for segmentation tasks (e.g., Oxford-IIIT Pet Dataset).
