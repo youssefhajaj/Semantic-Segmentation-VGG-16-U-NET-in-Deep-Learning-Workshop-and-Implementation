@@ -1,9 +1,6 @@
 # Semantic-Segmentation-VGG-16-U-NET-in-Deep-Learning-Workshop-and-Implementation
 This project focuses on semantic segmentation, a crucial computer vision task where each pixel in an image is classified into specific categories. The notebook explores concepts, datasets, and implementations using TensorFlow and Python. It includes practical examples and visualizations to deepen understanding.
 
-cat <<EOL > README.md
-# Semantic Segmentation in Deep Learning
-
 ## Overview
 This project is a hands-on workshop on semantic segmentation, a deep learning task that assigns a class label to every pixel in an image. Semantic segmentation is widely used in fields such as autonomous driving, medical imaging, and satellite imagery analysis.
 
